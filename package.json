@@ -1,0 +1,30 @@
+{
+  "name": "jogo-da-velha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matheusfd3/jogo-da-velha.git",
+  "author": "Matheus Ferreira <matheusfdantas03@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.1",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.3.0",
+    "html-webpack-plugin": "^5.3.2",
+    "react-refresh": "^0.10.0",
+    "style-loader": "^3.3.0",
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  }
+}
